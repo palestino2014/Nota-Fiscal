@@ -1,0 +1,1 @@
+python3 xml_extracter2.2.py nfe
