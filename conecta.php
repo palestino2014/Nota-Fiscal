@@ -1,8 +1,8 @@
 <?php 
 
-$usuario = "rodabras";
-$senha = "buda36581259";
-$host = "rodabras.mysql.dbaas.com.br";
+$usuario = "";
+$senha = "";
+$host = "";
 //$selecionabd = "bancoarduino";
 
 $conexao = mysql_connect($host,$usuario,$senha);
