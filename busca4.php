@@ -63,7 +63,7 @@
 		 include ("conecta.php");		
 		  
 	    //Conexão com o banco de dados
-       $conn = @mysql_connect("rodabras.mysql.dbaas.com.br", "rodabras", "buda36581259") or die("Não foi possível a conexão com o Banco");
+       $conn = @mysql_connect("", "", "") or die("Não foi possível a conexão com o Banco");
        // Selecionando banco
 		 // $db = @mysql_select_db("rodabras", $conn) or die("Não foi possível selecionar o Banco");
  
